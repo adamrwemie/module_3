@@ -1,0 +1,21 @@
+h2{
+  text-align: center;
+  margin: 15px;
+}
+ li{
+   text-align:center;
+ }
+
+
+.container {
+  background-color: gray;
+width: 97%;
+}
+
+p{
+  color: purple;
+}
+h4{
+  text-align: center;
+  color:purple;
+}
